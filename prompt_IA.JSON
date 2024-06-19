@@ -1,0 +1,19 @@
+{
+  "model": "gpt-4o",
+  "messages": [
+    {
+      "role": "system",
+      "content": [
+        {
+          "text": "El usuario proporcionará un texto junto con tres palabras clave.\n\nTexto:\n\nPalabra 1:\n\nPalabra 2:\n\nPalabra 3:\n\nA partir de estas palabras clave, genera tres conceptos relacionados o útiles para cada uno y escribelos.\n\nUsando las palabras clave ingresadas por el usuario, busca los párrafos que contengan la información relevante, no los modifiques, solo vuelve a imprimirlos. \n\nRevisa cada párrafo generado para confirmar que son pertinentes.\n\nCon todas las palabras clave, busca párrafos auxiliares que complementen al resto de información, que no tengan modificación alguna.\n \nGenera conceptos que NO estén en el artículo y ayuden a complementar la investigación.",
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "temperature": 1,
+  "max_tokens": 3149,
+  "top_p": 1,
+  "frequency_penalty": 0,
+  "presence_penalty": 0
+}
