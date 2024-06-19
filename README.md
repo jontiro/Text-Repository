@@ -3,7 +3,7 @@
 ## Nombre del equipo: #include <gatito.h>
 ### Nombre del proyecto: Text
 
-__APLICACION WEB: https://text-90021.bubbleapps.io/version-test__
+__APLICACION WEB: https://text-90021.bubbleapps.io__
 
 __Sumario:__
 
